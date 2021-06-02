@@ -2,13 +2,15 @@
 laba dlya setei
 
 ## Изменить и создать:
+```sh
 Создать папку uploads 
-```sh
-Зарегестрироваться и создать свой cluster на https://www.mongodb.com/
-```sh
-*Изменить config/default.json mongoUrl на свой
 
+Зарегестрироваться и создать свой cluster на https://www.mongodb.com/
+
+Изменить config/default.json mongoUrl на свой
+```
 ## Запуск проекта:
+```sh
 Запуск сервера + запуск клиента:
 $ npm run dev 
 Запуск сервера (+nodemon):
@@ -17,4 +19,4 @@ $ npm run server
 $ npm run client
 Запуск клиента с папки client:
 $ npm run start
-
+```
