@@ -1,6 +1,6 @@
 {
     "port":5000,
     "jwtSecret": "the secret key",
-    "mongoUrl": "mongodb+srv://chernov:Password4mongoose@cluster0.mmolk.mongodb.net/mern2?retryWrites=true&w=majority",
+    "mongoUrl": "editThis",
     "baseUrl": "http://localhost:5000"
 }
